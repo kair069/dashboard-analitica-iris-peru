@@ -1,0 +1,34 @@
+{
+  "oqAcxgpnU5gSm_nDXlxkZZb_kQZcj9U83J_m-OrD09g": {
+    "email": "admin@empresa.com",
+    "name": "Administrador",
+    "role": "admin",
+    "department": "IT",
+    "login_time": "2025-07-25T09:47:41.466215",
+    "expires": "2025-07-25T17:47:41.466215"
+  },
+  "hYtnGJi-yQCg5ENsKxXzSR1rGvn72KkgQcTqsP9_bmo": {
+    "email": "admin@empresa.com",
+    "name": "Administrador",
+    "role": "admin",
+    "department": "IT",
+    "login_time": "2025-07-25T09:48:59.972113",
+    "expires": "2025-07-25T17:48:59.972113"
+  },
+  "jgjTTzS2-vHVDqze-Y-VKrW3YbWFnx4Illawt5DlUwY": {
+    "email": "admin@empresa.com",
+    "name": "Administrador",
+    "role": "admin",
+    "department": "IT",
+    "login_time": "2025-07-25T09:50:48.612088",
+    "expires": "2025-07-25T17:50:48.612088"
+  },
+  "zzoIP4RbDQ-KZKJxUhQEd9bY5YQXi0mti1mx2QeuDWU": {
+    "email": "admin@empresa.com",
+    "name": "Administrador",
+    "role": "admin",
+    "department": "IT",
+    "login_time": "2025-07-25T09:51:21.305961",
+    "expires": "2025-07-25T17:51:21.305961"
+  }
+}
